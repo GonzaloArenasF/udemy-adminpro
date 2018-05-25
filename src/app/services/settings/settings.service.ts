@@ -74,6 +74,9 @@ export class SettingsService {
 
 }
 
+/**
+ * Determina el comportamiento del los datos
+ */
 interface Ajustes {
   temaUrl: string;
   tema: string;

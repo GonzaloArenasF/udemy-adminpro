@@ -7,7 +7,7 @@ export class SidebarService {
 
   menu: any = [
     {
-      titulo: 'Principal',
+      titulo: 'Operaciones',
       icono: 'mdi mdi-gauge',
       subMenu: [
         { titulo: 'Dashboard', url: '/dashboard' },
